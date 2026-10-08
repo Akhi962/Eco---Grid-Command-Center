@@ -11,14 +11,7 @@ Instead, the platform tracks systemic grid states, battery levels, and localized
 - **3D Celestial Gateway:** An immersive, lightweight vector-drawn landing module inspired by classical Roman mythology to secure grid initialization.
 - **Executive KPI Metrics:** Large, reactive status blocks monitoring total system generation capacity, load requirements, and target grid utilization factors.
 - **Visual Network Flow Map:** An interface map that dynamically shifts hex color styles (Green, Orange, Red) live as downstream grid connections mutate or fail.
-- **Live System Stress Testing:** Responsive manual load adjusters allowing operators to simulate overload thresholds, forcing automated battery backup triggers or circuit breaks.
 
-## 📦 Local Installation & Setup
-
-Ensure you have Python installed locally, then pull down dependencies via the terminal:
-
-```bash
-pip install streamlit pandas
 ```
 
 Launch the secure local server module from your root workspace file path:
